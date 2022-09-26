@@ -1,5 +1,7 @@
 # Life Domain - Domain Naming Service on Polygon
 
+![Life Domain Service](https://user-images.githubusercontent.com/56548922/192352271-de24f329-6b52-4722-a241-4be0d2925a69.jpg)
+
 ## Table of Contents:
   - [Deployed Website url](#deployed-website-url)
   - [Project Description](#project-description)
@@ -8,7 +10,7 @@
     - [Cloning and installing dependencies](#cloning-and-installing-dependencies)
     - [Running the frontend](#running-the-frontend)
     - [Deploying and running against a local instance](#deploying-and-running-against-a-local-instance)
-    - [Environment variables (not needed for running project locally)](#environment-variables-not-needed-for-running-project-locally)
+    - [Environment variables](#environment-variables)
 
 ## Deployed Website url
 
