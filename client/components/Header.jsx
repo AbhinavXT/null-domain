@@ -124,7 +124,7 @@ const Header = () => {
                     </svg>
                 </div>
 
-                <div>Life Naming Serive</div>
+                <div>Life Domain</div>
             </div>
             
             {currentAccount === '' ? (
