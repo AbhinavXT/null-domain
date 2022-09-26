@@ -1,4 +1,4 @@
-# Blockchain eCommerce Website - BlockBuy
+# Life Domain - Domain Naming Service on Polygon
 
 ## Table of Contents:
   - [Deployed Website url](#deployed-website-url)
@@ -12,7 +12,7 @@
 
 ## Deployed Website url
 
-https://block-buy-ecommerce.vercel.app/
+https://domain-client.vercel.app/
 
 ## Project Description
 
@@ -34,9 +34,9 @@ Domain Name Service build on Polygon using Solidity, Hardhat, Next.js and ethers
 1. Clone the project repository on your local machine
 
 ```
- git clone https://github.com/AbhinavXT/domain.git
+ git clone https://github.com/AbhinavXT/life-domain.git
 
- cd domain
+ cd life-domain
 ```
 
 2. Installing dependencies
@@ -80,10 +80,10 @@ npx hardhat run scripts/deploy.js --network localhost
 contractAddress = "Contract Address"
 ```
 
-1. Copy these addresses and paste them in the [**config.js**](https://github.com/AbhinavXT/BlockBuy-Ecommerce/blob/main/client/config.js) file inside the client floder, in place of current addresses.
+1. Copy these addresses and paste them in the [**config.js**](https://github.com/AbhinavXT/life-domain.git/blob/main/client/config.js) file inside the client floder, in place of current addresses.
 
 ```
-export const contractAddress = "0x7064707E6f691C6311E1b2ab5ce4B556d16652fb"
+export const contractAddress = "Contract Address"
 ```
 
 5. For importing account to metamask
