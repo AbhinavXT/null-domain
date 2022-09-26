@@ -136,7 +136,7 @@ const Header = () => {
                 </button>
             ) : (
                 <button 
-                    className="flex px-8 py-2 border-2 border-purple-400 rounded font-bold gap-x-4"    
+                    className="flex px-12 py-2 border-2 border-purple-400 rounded font-bold gap-x-4"    
                 >
                     <Image 
                         src="/polygon.svg"
