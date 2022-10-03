@@ -1,4 +1,4 @@
-# Life Domain - Domain Naming Service on Polygon
+# Null Domain - Domain Naming Service on Polygon
 
 ![Life Domain Service](https://user-images.githubusercontent.com/56548922/192352271-de24f329-6b52-4722-a241-4be0d2925a69.jpg)
 
@@ -36,9 +36,9 @@ Domain Name Service build on Polygon using Solidity, Hardhat, Next.js and ethers
 1. Clone the project repository on your local machine
 
 ```
- git clone https://github.com/AbhinavXT/life-domain.git
+ git clone https://github.com/AbhinavXT/null-domain.git
 
- cd life-domain
+ cd null-domain
 ```
 
 2. Installing dependencies
