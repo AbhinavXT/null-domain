@@ -1,6 +1,6 @@
 # Null Domain - Domain Naming Service on Polygon
 
-![Life Domain Service](https://user-images.githubusercontent.com/56548922/192352271-de24f329-6b52-4722-a241-4be0d2925a69.jpg)
+![Null Domain Service](https://user-images.githubusercontent.com/56548922/193622284-dff718de-1f6a-484e-ae29-8507f80c9d13.png)
 
 ## Table of Contents:
   - [Deployed Website url](#deployed-website-url)
