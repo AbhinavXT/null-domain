@@ -124,7 +124,7 @@ const Header = () => {
                     </svg>
                 </div>
 
-                <div>Life Domain</div>
+                <div>Null Domain</div>
             </div>
             
             {currentAccount === '' ? (
